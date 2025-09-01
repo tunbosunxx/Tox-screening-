@@ -21,6 +21,13 @@ This project integrates:
 - **Visualization**: PyMOL, Chimera, Cytoscape  
 
 ## 📂 Repository Structure
+plant-toxicity-assessment/
+│── data/ # Raw and curated data (compounds, docking results, QSAR datasets)
+│── notebooks/ # Jupyter notebooks for docking, QSAR, and toxicity predictions
+│── results/ # Figures, docking poses, toxicity reports
+│── src/ # Python scripts for automation
+│── docs/ # Documentation and background notes
+│── README.md # Project description (this file)
 
 ## 📊 Example Research Topics
 1. **In Silico Assessment of Phytochemicals for Developmental Toxicity Using Docking and QSAR Models**  
